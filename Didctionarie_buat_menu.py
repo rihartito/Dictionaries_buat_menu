@@ -1,7 +1,3 @@
-#Rihar del tito-71200648
-#Universitas Kristen Duta Wacana
-#Dictionaries
-
 
 '''buatlah sebuah menu setelah itu berikan menu apa saja yang dapat
 dibeli oleh inputan uang user yang ada 
